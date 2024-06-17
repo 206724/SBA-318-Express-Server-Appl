@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "packageId": 1,
+      "customerName": "John Doe",
+      "date": "2024-07-20"
+    },
+    {
+      "id": 2,
+      "packageId": 2,
+      "customerName": "Jane Smith",
+      "date": "2024-08-15"
+    }
+  ]

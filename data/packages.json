@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "destinationId": 1,
+      "name": "Romantic Paris",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "destinationId": 2,
+      "name": "NYC Adventure",
+      "price": 1500
+    }
+  ]
