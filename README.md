@@ -22,7 +22,7 @@ travel-agency-api/
 
 1. **Clone the repository:**
    ```bash
-   git clone[ https://github.co](https://github.com/206724/SBA-318-Express-Server-Appl.git
+   git clone[ https://github.com/206724/SBA-318-Express-Server-Appl.git]
 
 
 
